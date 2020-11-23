@@ -1,4 +1,4 @@
 # IDP
-Course or Academic projcts done in my college
+Academic projct done in college
 Done as group project
 
